@@ -1,4 +1,4 @@
-import React, { Component, setState } from 'react';
+import React, { Component } from 'react';
 import FeedbackOptions from './Feedback/FeedbackOptions';
 import Notification from './Notification/Notification';
 import Section from './Section/Section';
